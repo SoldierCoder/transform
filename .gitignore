@@ -1,0 +1,7 @@
+app/vendor
+node_modules
+*.swp
+.DS_Store
+.c9
+data
+

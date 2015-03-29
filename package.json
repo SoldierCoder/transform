@@ -1,0 +1,20 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "description": "transforms data from MySql into Mongodb",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Commander.js",
+    "Waterline.js"
+  ],
+  "author": "Ed Drain geekprogrammer.ed@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.7.1",
+    "waterline": "^0.10.19"
+  }
+}
